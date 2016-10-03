@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Universal SharedPreferences</string>
+    <string name="notice">You have logged in! Session has been saved!</string>
+</resources>
